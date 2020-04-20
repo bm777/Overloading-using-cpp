@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585929833 source:/home/bm7/Documents/Codeblocks/Surcharge/Duree.cpp
+	"Duree.h"
+	<string>
+	<iostream>
+
+1585928559 /home/bm7/Documents/Codeblocks/Surcharge/Duree.h
+	<iostream>
+
+1585929742 source:/home/bm7/Documents/Codeblocks/Surcharge/main.cpp
+	<iostream>
+	"Duree.h"
+
